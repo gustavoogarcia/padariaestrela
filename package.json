@@ -1,0 +1,11 @@
+{
+  "name": "padariaestrela",
+  "version": "1.0.0",
+  "description": "Tema feito sob medida para a Padaria Estrela de Mairinque",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Garcia",
+  "license": "ISC"
+}
